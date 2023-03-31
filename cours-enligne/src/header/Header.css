@@ -1,0 +1,110 @@
+/* All about nav */
+.head{
+    height: 660px;
+    background-color: rgba(203, 239, 230, 0.22);
+}
+.imghead{
+    width: 130px;
+    height: 100px;
+    margin-left: 60px;
+    margin-top: -2px;
+}
+.href{
+    text-decoration: none;
+    color: #242E30;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 19px;
+}
+.liste{
+    margin-left: 700px;
+    line-height: 65px;
+    letter-spacing: 2;
+    margin-top: -90px;
+    list-style: none;
+}
+ul li {
+    display: inline;
+    margin-right: 30px;
+}
+.moncompte{
+    border-radius: 26px;
+    background-color: #F8D162;
+    justify-content: center;
+    padding: 8px 15px;
+    float: right;
+    margin-top: 13px;
+    margin-right: 10px;
+}
+.href:hover{
+    color: #242E30;
+    text-decoration: underline;
+}
+/* all about text head ana image head*/
+.texthead{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    width: 785px;
+    height: 192px;
+    margin-top: 30px;
+    margin-left: 93px;
+    background: linear-gradient(259.25deg, #2D316B 28.85%, #B1E2DC 102.98%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+.texthead2{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    width: 785px;
+    height: 192px;
+    text-align: end;
+    margin-top: -208px;
+    margin-left: -150px;
+}
+.texthead3{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    width: 785px;
+    height: 192px;
+    margin-top: -155px;
+    margin-left: 95px;   
+}
+.textmotivation{
+    font-family: 'Poppins', sans-serif;
+    color: rgba(48, 53, 61, 0.5);
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 31px;
+    margin-top: -140px;
+    margin-left: 100px;
+}
+.rejoignez{
+    color: #242E30;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 20px;
+    gap: 10px;  
+    background: #F8D162;
+    border-radius: 26px;
+    margin-top: 30px;
+    margin-left: 220px;
+}
+.imgheader{
+    width: 750px;
+    height: 550px;
+    float: right;
+    margin-right: 30px;
+    margin-top: -340px;
+}

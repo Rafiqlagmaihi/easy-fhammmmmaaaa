@@ -1,0 +1,66 @@
+.title1{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 33px;
+    line-height: 180%;
+    color: #252532;
+    text-align: center;
+    margin-top: 50px;
+    margin-right: 180px;
+}
+.title2{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 33px;
+    color: #96DED5;
+    text-align: center;
+    margin-left: 350px;
+    margin-top: -70px;
+}
+.textapprentissage{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 22px;
+    text-align: center;
+    color: rgba(48, 53, 61, 0.5);
+}
+.apprentissage{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.appren{
+    width: 300px;
+    height: 400px;
+    background: #FFFFFF;
+    box-shadow: 0px 10px 60px rgba(38, 45, 118, 0.08);
+    border-radius: 20px;
+    
+}
+.iconsapp{
+    width: 40%;
+    height: 35%;
+    margin-top: -50px;
+}
+.textappren{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 22px;
+    line-height: 45px;
+    text-align: center;
+    color: #2D316B;
+    
+}
+.textappren1{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 180%;
+    text-align: center;
+    color: #696984;
+}

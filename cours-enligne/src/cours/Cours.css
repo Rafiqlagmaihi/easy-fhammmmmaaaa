@@ -1,0 +1,89 @@
+.textcours{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 33px;
+    line-height: 61px;
+    text-align: center;
+    margin-top: 50px;
+}
+.cours{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 80px;
+}
+.cour1{
+    width: 20%;
+    height: 300px;
+    background: linear-gradient(314.86deg, #2D316B 6.78%, rgba(45, 49, 107, 0) 146.07%);
+    border-radius: 15px;
+}
+.cour2{
+    width: 20%;
+    height: 300px;
+    background: linear-gradient(320.77deg, #B1E2DC 0%, rgba(177, 226, 220, 0) 123.82%);   
+    border-radius: 15px;
+}
+.cour3{
+    width: 20%;
+    height: 300px;
+    background: linear-gradient(284.58deg, #F8D162 -73.08%, rgba(248, 209, 98, 0) 137.23%);
+    border-radius: 15px;
+}
+.cour4{
+    width: 20%;
+    height: 300px;
+    background: linear-gradient(318.82deg, #DCF8F1 -3.25%, rgba(203, 239, 230, 0) 109.52%);
+    border-radius: 15px;
+}
+.textcour{
+    font-family: 'Poppins', sans-serif;
+    color: rgba(255, 255, 255, 0.84);
+    font-style: normal;
+    font-weight: 700;
+    font-size: 23px;
+    line-height: 43px;
+    align-items: center;
+    margin-top: 10px;
+    margin-left: 15px;
+}
+.textcour1{
+    font-family: 'Poppins', sans-serif;
+    color: #2D316B;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 23px;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+.aboutcour{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 30px;
+    color: rgba(255, 255, 255, 0.84);
+    opacity: 0.5;
+    margin-top: 45px;
+}
+.aboutcour1{
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 30px;
+    color:#2D316B;
+    opacity: 0.5;
+}
+.aboutcour2{
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 30px;
+    color:#2D316B;;
+    opacity: 0.5;
+    margin-top: 45px;
+}
+
